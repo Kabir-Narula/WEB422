@@ -20,7 +20,6 @@ This section contains information on the required dependencies for various assig
 
 ### Installation Command:
 
-bash
 npm install react react-dom @babel/core babel-loader webpack webpack-cli webpack-dev-server --save-dev
 
 Assignment 4 & 5 Dependencies
